@@ -1,0 +1,187 @@
+# Randomly generated list
+# Correctness Tests for Sort Algorithms
+# Unsorted array of integers before sorting algorithms
+
+# INSERSION
+# QUICK
+# QUCIKWISE
+# HEAP
+# MERGE
+
+# Performance Data for Sorting implementations
+# With Generated Data
+# Column Headers
+# Input(N)   INSERSION(T)   	QUICK(T)	   QUCIKWISE(T)		HEAP(T)   	MERGE(T)
+     	64.000000    0.000001000000    0.000000000000     0.000006000000   0.000000000000  0.000000000000
+
+
+# Randomly generated list
+# Correctness Tests for Sort Algorithms
+# Unsorted array of integers before sorting algorithms
+
+# INSERSION
+# QUICK
+# QUCIKWISE
+# HEAP
+# MERGE
+
+# Performance Data for Sorting implementations
+# With Generated Data
+# Column Headers
+# Input(N)   INSERSION(T)   	QUICK(T)	   QUCIKWISE(T)		HEAP(T)   	MERGE(T)
+     	128.000000    0.000006000000    0.000003000000     0.000008000000   0.000011000000  0.000006000000
+
+
+# Randomly generated list
+# Correctness Tests for Sort Algorithms
+# Unsorted array of integers before sorting algorithms
+
+# INSERSION
+# QUICK
+# QUCIKWISE
+# HEAP
+# MERGE
+
+# Performance Data for Sorting implementations
+# With Generated Data
+# Column Headers
+# Input(N)   INSERSION(T)   	QUICK(T)	   QUCIKWISE(T)		HEAP(T)   	MERGE(T)
+     	256.000000    0.000021000000    0.000005000000     0.000010000000   0.000036000000  0.000017000000
+
+
+# Randomly generated list
+# Correctness Tests for Sort Algorithms
+# Unsorted array of integers before sorting algorithms
+
+# INSERSION
+# QUICK
+# QUCIKWISE
+# HEAP
+# MERGE
+
+# Performance Data for Sorting implementations
+# With Generated Data
+# Column Headers
+# Input(N)   INSERSION(T)   	QUICK(T)	   QUCIKWISE(T)		HEAP(T)   	MERGE(T)
+     	512.000000    0.000100000000    0.000008000000     0.000013000000   0.000092000000  0.000040000000
+
+
+# Randomly generated list
+# Correctness Tests for Sort Algorithms
+# Unsorted array of integers before sorting algorithms
+
+# INSERSION
+# QUICK
+# QUCIKWISE
+# HEAP
+# MERGE
+
+# Performance Data for Sorting implementations
+# With Generated Data
+# Column Headers
+# Input(N)   INSERSION(T)   	QUICK(T)	   QUCIKWISE(T)		HEAP(T)   	MERGE(T)
+     	1024.000000    0.000342000000    0.000011000000     0.000016000000   0.000216000000  0.000089000000
+
+
+# Randomly generated list
+# Correctness Tests for Sort Algorithms
+# Unsorted array of integers before sorting algorithms
+
+# INSERSION
+# QUICK
+# QUCIKWISE
+# HEAP
+# MERGE
+
+# Performance Data for Sorting implementations
+# With Generated Data
+# Column Headers
+# Input(N)   INSERSION(T)   	QUICK(T)	   QUCIKWISE(T)		HEAP(T)   	MERGE(T)
+     	2048.000000    0.001300000000    0.000018000000     0.000023000000   0.000488000000  0.000198000000
+
+
+# Randomly generated list
+# Correctness Tests for Sort Algorithms
+# Unsorted array of integers before sorting algorithms
+
+# INSERSION
+# QUICK
+# QUCIKWISE
+# HEAP
+# MERGE
+
+# Performance Data for Sorting implementations
+# With Generated Data
+# Column Headers
+# Input(N)   INSERSION(T)   	QUICK(T)	   QUCIKWISE(T)		HEAP(T)   	MERGE(T)
+     	4096.000000    0.005614000000    0.000029000000     0.000032000000   0.001125000000  0.000429000000
+
+
+# Randomly generated list
+# Correctness Tests for Sort Algorithms
+# Unsorted array of integers before sorting algorithms
+
+# INSERSION
+# QUICK
+# QUCIKWISE
+# HEAP
+# MERGE
+
+# Performance Data for Sorting implementations
+# With Generated Data
+# Column Headers
+# Input(N)   INSERSION(T)   	QUICK(T)	   QUCIKWISE(T)		HEAP(T)   	MERGE(T)
+     	8192.000000    0.021668000000    0.000047000000     0.000049000000   0.002444000000  0.000982000000
+
+
+# Randomly generated list
+# Correctness Tests for Sort Algorithms
+# Unsorted array of integers before sorting algorithms
+
+# INSERSION
+# QUICK
+# QUCIKWISE
+# HEAP
+# MERGE
+
+# Performance Data for Sorting implementations
+# With Generated Data
+# Column Headers
+# Input(N)   INSERSION(T)   	QUICK(T)	   QUCIKWISE(T)		HEAP(T)   	MERGE(T)
+     	16384.000000    0.091644000000    0.000097000000     0.000097000000   0.006259000000  0.004937000000
+
+
+# Randomly generated list
+# Correctness Tests for Sort Algorithms
+# Unsorted array of integers before sorting algorithms
+
+# INSERSION
+# QUICK
+# QUCIKWISE
+# HEAP
+# MERGE
+
+# Performance Data for Sorting implementations
+# With Generated Data
+# Column Headers
+# Input(N)   INSERSION(T)   	QUICK(T)	   QUCIKWISE(T)		HEAP(T)   	MERGE(T)
+     	32768.000000    0.400728000000    0.000202000000     0.000213000000   0.012691000000  0.007323000000
+
+
+# Randomly generated list
+# Correctness Tests for Sort Algorithms
+# Unsorted array of integers before sorting algorithms
+
+# INSERSION
+# QUICK
+# QUCIKWISE
+# HEAP
+# MERGE
+
+# Performance Data for Sorting implementations
+# With Generated Data
+# Column Headers
+# Input(N)   INSERSION(T)   	QUICK(T)	   QUCIKWISE(T)		HEAP(T)   	MERGE(T)
+     	65536.000000    1.506010000000    0.000418000000     0.000412000000   0.025622000000  0.011990000000
+
+

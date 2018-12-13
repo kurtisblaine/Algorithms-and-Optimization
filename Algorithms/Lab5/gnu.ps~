@@ -1,0 +1,27 @@
+#!/bin/bash
+#to run:
+#	cat gnu.ps | gnuplot
+
+#  feh 'image.png to see the image in terminal
+#  set terminal png
+#  set output 'image.png
+  plot 'betterdata.txt' using 1:2 with linespoints
+  set logscale x 10
+  set logscale y 10
+  replot
+  set title "TSP BRUTE FORCE"
+  set xlabel "Time (Seconds)"
+  set ylabel "Verticies (V)"
+  replot
+  brute(x) = A * gamma(x+1)
+#  quick(x) = x**2
+#  quickwise(x) = x**2
+#  heap(x) = x*log(x)
+#  merge(x) = x*log(x)
+  plot [1:10] using 1:2 brute(x)
+  fit brute(x) 'betterdata.txt' via x
+  plot 'betterdata.txt' using 1:2  with linespoints, brute(x)
+  replot
+  reread
+  pause 1000
+  pause -1

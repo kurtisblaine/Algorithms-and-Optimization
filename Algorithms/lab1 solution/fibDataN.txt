@@ -1,0 +1,10 @@
+# Performance Data for all Fibonacci function variants
+# Column Headers
+#                    +---------------------- Time (Nanoseconds)-------------------------+
+# Size(N)  Value(X)   FibRecur      FibRecurDp   FibRecurDpAlt         FibLoop      FibMatrix
+     1      1            13.33           10.00           96.67           10.00          243.33
+     2      3            36.67          140.00          133.33           23.33           90.00
+     3      7           273.33          213.33          216.67           43.33          123.33
+     4     15         13393.33          423.33          440.00          316.67          153.33
+     5     31      25791446.67          546.67          576.67          143.33           90.00
+     6     63                ?         1190.00         1300.00          320.00          106.67

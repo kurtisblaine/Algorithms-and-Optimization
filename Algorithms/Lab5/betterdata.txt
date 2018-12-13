@@ -1,0 +1,239 @@
+
+# Correctness Tests for TS Algorithms
+# Generating graph...
+# Random Cost Matrix
+# 0  26 
+# 59  0 
+# BRUTE
+# Cost: 85
+# Path: 26 -> 59 
+# BRUTE2
+# Cost: 85
+# Path: 26 -> 59 
+# DYNAMIC
+# Cost: 85
+# Path: 26 -> 59 
+
+# Performance Data for Graph Algorithms
+# With Generated Data
+# Column Headers
+# Input(N)   BRUTE(T)   	WORSTBRUTE(T)	   DYNAMIC(T)		 
+     	2    0.000151999993    0.000001000000     0.000009000000  
+
+
+# Correctness Tests for TS Algorithms
+# Generating graph...
+# Random Cost Matrix
+# 0  87  48  3 
+# 69  0  40  5 
+# 92  49  0  30 
+# 56  95  36  0 
+# BRUTE
+# Cost: 157
+# Path: 3 -> 5 -> 30 -> 36 
+# BRUTE2
+# Cost: 157
+# Path: 3 -> 5 -> 30 -> 36 
+# DYNAMIC
+# Cost: 157
+# Path: 3 -> 5 -> 30 -> 36 
+
+# Performance Data for Graph Algorithms
+# With Generated Data
+# Column Headers
+# Input(N)   BRUTE(T)   	WORSTBRUTE(T)	   DYNAMIC(T)		 
+     	4    0.000177999987    0.000008000000     0.000019000001  
+
+
+# Correctness Tests for TS Algorithms
+# Generating graph...
+# Random Cost Matrix
+# 0  43  2  16  16  35 
+# 55  0  55  78  66  56 
+# 58  87  0  43  46  3 
+# 74  63  82  0  33  50 
+# 30  36  71  70  0  41 
+# 16  19  24  24  67  0 
+# BRUTE
+# Cost: 153
+# Path: 2 -> 55 -> 3 -> 33 -> 30 -> 16 
+# BRUTE2
+# Cost: 153
+# Path: 2 -> 55 -> 3 -> 33 -> 30 -> 16 
+# DYNAMIC
+# Cost: 153
+# Path: 2 -> 55 -> 3 -> 33 -> 30 -> 16 
+
+# Performance Data for Graph Algorithms
+# With Generated Data
+# Column Headers
+# Input(N)   BRUTE(T)   	WORSTBRUTE(T)	   DYNAMIC(T)		 
+     	6    0.000352999981    0.000203000003     0.000049000002  
+
+
+# Correctness Tests for TS Algorithms
+# Generating graph...
+# Random Cost Matrix
+# 0  60  20  21  76  88  56  84 
+# 96  0  86  2  52  45  41  95 
+# 43  45  0  22  6  79  55  8 
+# 9  44  32  0  32  37  48  51 
+# 61  72  70  74  0  44  92  2 
+# 33  0  38  29  87  0  41  81 
+# 84  82  29  27  79  51  0  86 
+# 10  58  94  20  54  78  52  0 
+# BRUTE
+# Cost: 142
+# Path: 20 -> 2 -> 6 -> 9 -> 2 -> 0 -> 27 -> 10 
+# BRUTE2
+# Cost: 142
+# Path: 20 -> 2 -> 6 -> 9 -> 2 -> 0 -> 27 -> 10 
+# DYNAMIC
+# Cost: 142
+# Path: 20 -> 2 -> 6 -> 9 -> 2 -> 0 -> 27 -> 10 
+
+# Performance Data for Graph Algorithms
+# With Generated Data
+# Column Headers
+# Input(N)   BRUTE(T)   	WORSTBRUTE(T)	   DYNAMIC(T)		 
+     	8    0.008113999851    0.014210999943     0.000264000002  
+
+
+# Correctness Tests for TS Algorithms
+# Generating graph...
+# Random Cost Matrix
+# 0  92  26  55  5  51  78  31  95  70 
+# 34  0  28  22  24  9  61  65  91  45 
+# 0  72  0  25  31  75  11  42  85  57 
+# 14  40  36  0  66  84  14  73  41  17 
+# 51  73  13  73  0  59  93  48  83  3 
+# 61  1  46  59  53  0  70  84  84  45 
+# 47  78  30  56  92  22  0  44  10  6 
+# 59  84  48  76  87  73  41  0  13  32 
+# 35  61  67  90  22  68  88  81  0  73 
+# 58  17  58  55  16  88  37  73  81  0 
+# BRUTE
+# Cost: 184
+# Path: 5 -> 9 -> 0 -> 14 -> 3 -> 1 -> 6 -> 13 -> 22 -> 16 
+# BRUTE2
+# Cost: 184
+# Path: 5 -> 9 -> 0 -> 14 -> 3 -> 1 -> 6 -> 13 -> 22 -> 16 
+# DYNAMIC
+# Cost: 184
+# Path: 5 -> 9 -> 0 -> 14 -> 3 -> 1 -> 6 -> 13 -> 22 -> 16 
+
+# Performance Data for Graph Algorithms
+# With Generated Data
+# Column Headers
+# Input(N)   BRUTE(T)   	WORSTBRUTE(T)	   DYNAMIC(T)		 
+     	10    0.619085013866    1.355234980583     0.001419999986  
+
+
+# Correctness Tests for TS Algorithms
+# Generating graph...
+# Random Cost Matrix
+# 0  12  17  91  70  76  27  18  5  67  43  46 
+# 80  0  27  33  93  95  75  15  15  63  49  89 
+# 73  66  0  99  80  83  87  70  8  20  82  25 
+# 64  52  54  0  43  23  59  10  66  57  42  46 
+# 91  35  93  18  0  3  60  82  52  1  7  70 
+# 0  88  5  40  10  0  13  60  92  39  76  44 
+# 45  20  19  56  30  86  0  13  73  84  56  60 
+# 77  75  63  37  9  15  39  0  16  86  91  56 
+# 91  31  66  57  44  10  96  20  0  55  93  40 
+# 26  49  23  64  14  48  48  23  8  0  25  98 
+# 72  15  59  87  54  27  25  97  84  69  0  81 
+# 2  26  25  13  74  97  20  19  90  46  68  0 
+# DYNAMIC
+# Cost: 169
+# Path: 5 -> 15 -> 8 -> 10 -> 1 -> 0 -> 13 -> 9 -> 10 -> 8 -> 15 -> 2 
+
+# Performance Data for Graph Algorithms
+# With Generated Data
+# Column Headers
+# Input(N)   BRUTE(T)   	WORSTBRUTE(T)	   DYNAMIC(T)		 
+     	12    0.619085013866    1.355234980583     0.009542999789  
+
+
+# Correctness Tests for TS Algorithms
+# Generating graph...
+# Random Cost Matrix
+# 0  13  11  34  13  11  57  21  37  55  93  4  66  33 
+# 58  0  94  10  7  30  79  88  32  57  65  97  83  63 
+# 69  2  0  5  16  22  70  79  57  83  42  14  4  79 
+# 22  50  83  0  88  83  93  82  45  53  12  77  41  97 
+# 34  7  94  70  0  22  16  72  79  32  95  49  63  52 
+# 32  5  18  88  37  0  40  38  72  29  73  18  63  71 
+# 71  28  48  64  25  34  0  23  71  4  97  87  29  76 
+# 71  76  25  86  80  9  44  0  98  50  33  91  40  5 
+# 72  66  75  35  37  98  63  37  0  63  40  71  86  64 
+# 28  84  51  9  60  75  85  38  61  0  65  99  57  15 
+# 49  90  6  42  48  78  8  23  66  45  0  22  81  34 
+# 85  74  5  23  38  85  7  41  94  20  16  0  79  10 
+# 30  96  9  87  12  11  78  18  53  26  49  13  0  49 
+# 67  10  23  48  44  60  22  49  84  12  35  43  54  0 
+# DYNAMIC
+# Cost: 200
+# Path: 4 -> 7 -> 2 -> 12 -> 7 -> 5 -> 4 -> 5 -> 35 -> 9 -> 6 -> 5 -> 9 -> 10 
+
+# Performance Data for Graph Algorithms
+# With Generated Data
+# Column Headers
+# Input(N)   BRUTE(T)   	WORSTBRUTE(T)	   DYNAMIC(T)		 
+     	14    0.619085013866    1.355234980583     0.050599001348  
+
+
+# Correctness Tests for TS Algorithms
+# Generating graph...
+# Random Cost Matrix
+# 0  81  63  70  61  73  0  57  35  88  21  98  18  92  3  44 
+# 41  0  16  45  8  26  69  8  70  29  83  71  13  95  58  9 
+# 49  40  0  72  20  1  98  72  10  85  12  32  83  30  24  38 
+# 74  17  54  0  20  77  80  89  85  2  70  68  73  36  64  84 
+# 45  65  24  69  0  85  77  67  10  39  4  22  71  39  53  47 
+# 77  27  16  31  99  0  93  63  40  79  65  11  99  91  47  15 
+# 75  44  81  51  13  18  0  80  33  80  19  37  3  43  77  56 
+# 42  6  35  59  38  35  52  0  53  75  83  71  86  35  14  85 
+# 50  41  29  83  92  95  54  24  0  28  34  43  17  37  86  46 
+# 45  81  53  81  40  43  68  92  96  0  43  28  19  82  63  33 
+# 19  13  74  1  49  18  96  3  42  24  0  37  38  93  27  76 
+# 40  24  57  93  5  97  36  25  90  84  69  0  70  4  3  33 
+# 89  74  46  16  75  47  86  23  50  29  47  40  0  67  41  19 
+# 95  33  43  53  26  1  50  14  26  92  98  95  62  0  54  50 
+# 95  96  25  94  12  52  41  98  76  44  79  75  36  98  0  68 
+# 55  94  1  98  47  27  99  49  41  26  42  92  73  56  98  0 
+# DYNAMIC
+# Cost: 168
+# Path: 0 -> 8 -> 1 -> 2 -> 4 -> 11 -> 3 -> 6 -> 17 -> 19 -> 1 -> 3 -> 16 -> 1 -> 12 -> 1 
+
+# Performance Data for Graph Algorithms
+# With Generated Data
+# Column Headers
+# Input(N)   BRUTE(T)   	WORSTBRUTE(T)	   DYNAMIC(T)		 
+     	16    0.619085013866    1.355234980583     0.281944990158  
+
+
+# Correctness Tests for TS Algorithms
+# Generating graph...
+# Random Cost Matrix
+# 0  76  4  94  53  98  6  5  91  5  81  35  36  57  71  35  25  78 
+# 29  0  27  29  76  6  80  25  0  58  19  92  32  76  90  60  32  85 
+# 13  30  0  43  18  73  0  52  9  37  9  32  72  86  63  53  65  92 
+# 81  72  72  0  58  72  31  78  16  15  6  6  75  38  43  40  20  87 
+# 10  93  39  62  0  54  76  23  39  0  10  2  53  27  94  86  99  66 
+# 45  71  49  23  87  0  64  81  46  91  71  41  83  91  80  94  36  20 
+# 8  91  48  32  30  1  0  94  84  6  21  78  93  73  96  38  96  98 
+# 13  36  14  94  82  6  17  0  23  41  60  4  87  96  76  96  39  24 
+# 80  21  25  74  5  84  47  35  0  77  20  32  15  17  30  28  5  44 
+# 74  87  2  43  62  96  3  18  83  0  51  94  79  43  71  11  64  48 
+# 85  22  32  85  57  9  57  41  76  26  0  23  56  31  68  30  70  22 
+# 73  33  18  28  3  54  80  50  33  23  73  0  45  39  21  82  61  6 
+# 19  71  67  77  12  96  55  36  52  87  56  83  0  57  78  8  42  49 
+# 37  98  3  69  48  88  44  21  85  83  94  20  97  0  52  39  68  72 
+# 68  32  68  24  68  20  63  76  55  72  7  16  15  56  0  5  65  11 
+# 74  13  51  70  86  37  53  32  57  2  37  48  22  9  69  0  55  29 
+# 93  75  49  8  52  57  80  59  73  47  67  78  12  30  52  77  0  81 
+# 74  63  18  27  48  27  82  85  28  4  46  97  11  75  90  39  76  0 
+# DYNAMIC
+# Cost: -196
+# Path: -1 -> -37 -> -1 -> -18 -> -1 -> -18 -> -1 -> -16 -> -1 -> -27 -> -1 -> -16 -> -1 -> -16 -> -1 -> -8 -> -1 -> -54 

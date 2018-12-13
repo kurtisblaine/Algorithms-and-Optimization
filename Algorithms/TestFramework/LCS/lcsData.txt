@@ -1,0 +1,11 @@
+# Performance Data for LCS implementation
+# Column Headers
+# Input Size(N)     Time(T)
+10      0.000004
+20      0.000021
+40      0.000148
+80      0.001283
+160      0.010452
+320      0.066458
+640      0.499125
+1280      3.873546

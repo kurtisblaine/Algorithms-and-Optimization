@@ -1,0 +1,27 @@
+#!/bin/bash
+#to run:
+#	cat gnuplot.ps | gnuplot
+
+#  feh 'image.png to see the image in terminal
+#  set terminal png
+#  set output 'image.png
+  plot 'shuffle.txt' using 1:2 with linespoints
+  set logscale x 10
+#  set logscale y 10
+  replot
+  set title "Partially sorted using reversed list and random indexing"
+  set xlabel "Time (Seconds)"
+  set ylabel "Size (N)"
+  replot
+  insert(x) = x**2
+  quick(x) = x**2
+  quickwise(x) = x**2
+  heap(x) = x*log(x)
+  merge(x) = x*log(x)
+  plot [1:100] using 1:2 quick(x), insert(x), quickwise(x), heap(x), merge(x)
+  fit quick(x), insert(x), quickwise(x), heap(x), merge(x) 'shuffle.txt' via x
+  plot 'shuffle.txt' using 1:2  with linespoints, quick(x), insert(x), quickwise(x), heap(x), merge(x)
+  replot
+  reread
+  pause 1000
+  pause -1

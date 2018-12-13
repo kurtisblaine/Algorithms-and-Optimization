@@ -1,0 +1,22 @@
+#!/bin/bash
+#to run:
+#	cat gnuplot.ps | gnuplot
+
+#  feh 'image.png to see the image in terminal
+#  set terminal png
+#  set output 'image.png
+  plot 'betterdata.txt' using 1:4 with linespoints
+  set logscale x 12
+  set logscale y 12
+  replot
+  set title "TSP DYNAMIC"
+  set xlabel "Verticies (V)"
+  set ylabel "Time (Seconds)"
+  replot
+  f(x) = A * x**2 * 2**x
+  fit [1:15] f(x) 'betterdata.txt' via A
+  plot 'betterdata.txt' using 1:4 with linespoints, f(x)
+  replot
+  reread
+  pause 1000
+  pause -1
